@@ -1,201 +1,176 @@
-                                 Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
+# Personal Content License (PCL) — Attribution Required, Non-Commercial Use Only
 
-   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+**Copyright © 2026 Alperen AKKAYA. All Rights Reserved.**
 
-   1. Definitions.
+**License Version:** 1.0  
+**Effective Date:** October 25, 2026  
+**License Type:** Custom, Restricted, Non-Commercial License
 
-      "License" shall mean the terms and conditions for use, reproduction,
-      and distribution as defined by Sections 1 through 9 of this document.
+## 1. Purpose and Scope
 
-      "Licensor" shall mean the copyright owner or entity authorized by
-      the copyright owner that is granting the License.
+This license governs the use, reproduction, distribution, and modification of the original content contained in this repository, including but not limited to:
 
-      "Legal Entity" shall mean the union of the acting entity and all
-      other entities that control, are controlled by, or are under common
-      control with that entity. For the purposes of this definition,
-      "control" means (i) the power, direct or indirect, to cause the
-      direction or management of such entity, whether by contract or
-      otherwise, or (ii) ownership of fifty percent (50%) or more of the
-      outstanding shares, or (iii) beneficial ownership of such entity.
+- AI agent skills and skill definitions
+- Markdown (`.md`) files and documentation
+- AI prompts, system instructions, and custom rules
+- Agent configurations, workflows, and reusable instructions
+- Templates, examples, methodologies, and written materials
+- Other original text-based resources published in this repository
 
-      "You" (or "Your") shall mean an individual or Legal Entity
-      exercising permissions granted by this License.
+All such materials are collectively referred to as the **"Licensed Materials."**
 
-      "Source" form shall mean the preferred form for making modifications,
-      including but not limited to software source code, documentation
-      source, and configuration files.
+The Licensed Materials are original personal works created or curated by **Alperen AKKAYA**, except where otherwise indicated.
 
-      "Object" form shall mean any form resulting from mechanical
-      transformation or translation of a Source form, including but
-      not limited to compiled object code, generated documentation,
-      and conversions to other media types.
+## 2. Copyright and Ownership
 
-      "Work" shall mean the work of authorship, whether in Source or
-      Object form, made available under the License, as indicated by a
-      copyright notice that is included in or attached to the work
-      (an example is provided in the Appendix below).
+All rights, title, and interest in the Licensed Materials remain with their respective copyright holders.
 
-      "Derivative Works" shall mean any work, whether in Source or Object
-      form, that is based on (or derived from) the Work and for which the
-      editorial revisions, annotations, elaborations, or other modifications
-      represent, as a whole, an original work of authorship. For the purposes
-      of this License, Derivative Works shall not include works that remain
-      separable from, or merely link (or bind by name) to the interfaces of,
-      the Work and Derivative Works thereof.
+Unless explicitly stated otherwise, the original materials in this repository are owned by Alperen AKKAYA and are protected by applicable copyright and intellectual property laws.
 
-      "Contribution" shall mean any work of authorship, including
-      the original version of the Work and any modifications or additions
-      to that Work or Derivative Works thereof, that is intentionally
-      submitted to Licensor for inclusion in the Work by the copyright owner
-      or by an individual or Legal Entity authorized to submit on behalf of
-      the copyright owner. For the purposes of this definition, "submitted"
-      means any form of electronic, verbal, or written communication sent
-      to the Licensor or its representatives, including but not limited to
-      communication on electronic mailing lists, source code control systems,
-      and issue tracking systems that are managed by, or on behalf of, the
-      Licensor for the purpose of discussing and improving the Work, but
-      excluding communication that is conspicuously marked or otherwise
-      designated in writing by the copyright owner as "Not a Contribution."
+No ownership rights are transferred to any user, organization, company, or third party under this license.
 
-      "Contributor" shall mean Licensor and any individual or Legal Entity
-      on behalf of whom a Contribution has been received by Licensor and
-      subsequently incorporated within the Work.
+This license does not claim ownership of third-party materials, public-domain content, or other works that are separately identified as belonging to their respective owners.
 
-   2. Grant of Copyright License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      copyright license to reproduce, prepare Derivative Works of,
-      publicly display, publicly perform, sublicense, and distribute the
-      Work and such Derivative Works in Source or Object form.
+## 3. Permitted Uses
 
-   3. Grant of Patent License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      (except as stated in this section) patent license to make, have made,
-      use, offer to sell, sell, import, and otherwise transfer the Work,
-      where such license applies only to those patent claims licensable
-      by such Contributor that are necessarily infringed by their
-      Contribution(s) alone or by combination of their Contribution(s)
-      with the Work to which such Contribution(s) was submitted. If You
-      institute patent litigation against any entity (including a
-      cross-claim or counterclaim in a lawsuit) alleging that the Work
-      or a Contribution incorporated within the Work constitutes direct
-      or contributory patent infringement, then any patent licenses
-      granted to You under this License for that Work shall terminate
-      as of the date such litigation is filed.
+Subject to full compliance with this license, you may:
 
-   4. Redistribution. You may reproduce and distribute copies of the
-      Work or Derivative Works thereof in any medium, with or without
-      modifications, and in Source or Object form, provided that You
-      meet the following conditions:
+1. View and read the Licensed Materials for personal, educational, and research purposes.
+2. Use the Licensed Materials for your own personal, non-commercial AI projects.
+3. Reference the Licensed Materials in articles, reviews, tutorials, academic work, and other non-commercial publications, provided that proper attribution is given.
+4. Link to the original repository and refer to individual files without reproducing substantial portions of their contents.
+5. Use short quotations when reasonably necessary for commentary, criticism, review, or reference, subject to applicable law and the attribution requirements in this license.
 
-      (a) You must give any other recipients of the Work or
-          Derivative Works a copy of this License; and
+These permissions are limited, non-exclusive, non-transferable, and revocable to the extent permitted by applicable law.
 
-      (b) You must cause any modified files to carry prominent notices
-          stating that You changed the files; and
+## 4. Mandatory Attribution
 
-      (c) You must retain, in the Source form of any Derivative Works
-          that You distribute, all copyright, patent, trademark, and
-          attribution notices from the Source form of the Work,
-          excluding those notices that do not pertain to any part of
-          the Derivative Works; and
+**Attribution is mandatory whenever the Licensed Materials are reproduced, quoted beyond incidental reference, redistributed, or otherwise used in a manner that requires attribution under this license.**
 
-      (d) If the Work includes a "NOTICE" text file as part of its
-          distribution, then any Derivative Works that You distribute must
-          include a readable copy of the attribution notices contained
-          within such NOTICE file, excluding those notices that do not
-          pertain to any part of the Derivative Works, in at least one
-          of the following places: within a NOTICE text file distributed
-          as part of the Derivative Works; within the Source form or
-          documentation, if provided along with the Derivative Works; or,
-          within a display generated by the Derivative Works, if and
-          wherever such third-party notices normally appear. The contents
-          of the NOTICE file are for informational purposes only and
-          do not modify the License. You may add Your own attribution
-          notices within Derivative Works that You distribute, alongside
-          or as an addendum to the NOTICE text from the Work, provided
-          that such additional attribution notices cannot be construed
-          as modifying the License.
+At a minimum, attribution must include:
 
-      You may add Your own copyright statement to Your modifications and
-      may provide additional or different license terms and conditions
-      for use, reproduction, or distribution of Your modifications, or
-      for any such Derivative Works as a whole, provided Your use,
-      reproduction, and distribution of the Work otherwise complies with
-      the conditions stated in this License.
+- **Author:** Alperen AKKAYA
+- **Source:** https://github.com/AlperenAKKAYA99/MyMind
+- **Reference:** The relevant file name or path, where applicable
+- **License:** Personal Content License (PCL) 1.0
+- **Modifications:** A clear statement identifying any changes, if applicable
 
-   5. Submission of Contributions. Unless You explicitly state otherwise,
-      any Contribution intentionally submitted for inclusion in the Work
-      by You to the Licensor shall be under the terms and conditions of
-      this License, without any additional terms or conditions.
-      Notwithstanding the above, nothing herein shall supersede or modify
-      the terms of any separate license agreement you may have executed
-      with Licensor regarding such Contributions.
+### Recommended Attribution Format
 
-   6. Trademarks. This License does not grant permission to use the trade
-      names, trademarks, service marks, or product names of the Licensor,
-      except as required for reasonable and customary use in describing the
-      origin of the Work and reproducing the content of the NOTICE file.
+> Original work by Alperen AKKAYA.  
+> Source: https://github.com/AlperenAKKAYA99/MyMind 
+> License: Personal Content License (PCL) 1.0.  
+> Modifications: [None / Description of modifications]
 
-   7. Disclaimer of Warranty. Unless required by applicable law or
-      agreed to in writing, Licensor provides the Work (and each
-      Contributor provides its Contributions) on an "AS IS" BASIS,
-      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
-      implied, including, without limitation, any warranties or conditions
-      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
-      PARTICULAR PURPOSE. You are solely responsible for determining the
-      appropriateness of using or redistributing the Work and assume any
-      risks associated with Your exercise of permissions under this License.
+Attribution must be reasonably visible and must not be removed, concealed, or misleadingly presented.
 
-   8. Limitation of Liability. In no event and under no legal theory,
-      whether in tort (including negligence), contract, or otherwise,
-      unless required by applicable law (such as deliberate and grossly
-      negligent acts) or agreed to in writing, shall any Contributor be
-      liable to You for damages, including any direct, indirect, special,
-      incidental, or consequential damages of any character arising as a
-      result of this License or out of the use or inability to use the
-      Work (including but not limited to damages for loss of goodwill,
-      work stoppage, computer failure or malfunction, or any and all
-      other commercial damages or losses), even if such Contributor
-      has been advised of the possibility of such damages.
+Attribution does not imply endorsement by the author.
 
-   9. Accepting Warranty or Additional Liability. While redistributing
-      the Work or Derivative Works thereof, You may choose to offer,
-      and charge a fee for, acceptance of support, warranty, indemnity,
-      or other liability obligations and/or rights consistent with this
-      License. However, in accepting such obligations, You may act only
-      on Your own behalf and on Your sole responsibility, not on behalf
-      of any other Contributor, and only if You agree to indemnify,
-      defend, and hold each Contributor harmless for any liability
-      incurred by, or claims asserted against, such Contributor by reason
-      of your accepting any such warranty or additional liability.
+**Attribution alone does not grant permission for commercial use or any use otherwise prohibited by this license.**
 
-   END OF TERMS AND CONDITIONS
+## 5. Prohibition of Commercial Use
 
-   APPENDIX: How to apply the Apache License to your work.
+**Commercial use of the Licensed Materials is strictly prohibited without prior explicit written permission from the copyright holder.**
 
-      To apply the Apache License to your work, attach the following
-      boilerplate notice, with the fields enclosed by brackets "[]"
-      replaced with your own identifying information. (Don't include
-      the brackets!)  The text should be enclosed in the appropriate
-      comment syntax for the file format. We also recommend that a
-      file or class name and description of purpose be included on the
-      same "printed page" as the copyright notice for easier
-      identification within third-party archives.
+Commercial use includes, but is not limited to:
 
-   Copyright [yyyy] [name of copyright owner]
+1. Selling, licensing, sublicensing, or renting the Licensed Materials.
+2. Including the Licensed Materials in a paid product, service, subscription, or commercial offering.
+3. Using the Licensed Materials to provide paid consulting, implementation, development, or other commercial services.
+4. Incorporating the Licensed Materials into proprietary software, commercial AI agents, paid skill libraries, or products offered for commercial advantage.
+5. Redistributing the Licensed Materials as part of a product or service intended to generate revenue or other commercial benefit.
+6. Using the Licensed Materials to promote or support a commercial product or service in a manner that goes beyond ordinary, non-commercial reference.
+7. Offering substantially similar copies of the Licensed Materials through a commercial marketplace or distribution platform.
 
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
+A commercial purpose is not determined solely by whether money changes hands. Activities intended primarily for commercial advantage or monetary compensation may also constitute commercial use.
 
-       http://www.apache.org/licenses/LICENSE-2.0
+Commercial use may be permitted only through a separate written agreement signed or otherwise explicitly approved in writing by the copyright holder.
 
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
+## 6. Restrictions on Redistribution
+
+You may not redistribute, republish, mirror, bundle, or make substantial portions of the Licensed Materials available in another repository, website, package, marketplace, or content library without prior written permission from the copyright holder, except where a limited use is expressly permitted under applicable law.
+
+In particular, you may not:
+
+- Republish the complete repository or substantial portions of it as your own collection.
+- Upload the Licensed Materials to another public repository as a substitute for the original source.
+- Remove copyright notices, author information, or provenance metadata.
+- Present the Licensed Materials as original work created by another person or organization.
+- Make the Licensed Materials available under terms that conflict with this license.
+
+Linking to the original repository is encouraged and does not, by itself, constitute redistribution of the Licensed Materials.
+
+## 7. Modifications and Derivative Works
+
+You may adapt or modify the Licensed Materials for your own personal, non-commercial use, subject to applicable law and the other conditions of this license.
+
+However, without prior written permission, you may not publicly distribute, publish, sell, sublicense, or otherwise make modified versions or derivative works based on substantial portions of the Licensed Materials available to third parties.
+
+Where modified material is lawfully shared under an applicable exception or with explicit permission, the original author and source must be credited, and the modifications must be clearly identified.
+
+This section does not claim exclusive rights over independently created works that do not incorporate protected expression from the Licensed Materials.
+
+## 8. AI Systems, Agent Skills, and Automated Processing
+
+The restrictions in this license apply to the Licensed Materials regardless of whether they are used by humans, AI systems, autonomous agents, coding assistants, automated workflows, or other software.
+
+Without prior written permission, you may not:
+
+1. Repackage or redistribute the Licensed Materials as an AI skill pack, agent bundle, prompt collection, template library, or equivalent product.
+2. Copy substantial portions of the Licensed Materials into another publicly distributed skill repository or commercial AI system.
+3. Use the Licensed Materials as a substantial component of a paid AI product or service.
+4. Remove attribution or source information when incorporating permitted quotations or references into AI-related documentation.
+
+This section does not automatically prohibit the use of an AI tool to read or process the materials for an otherwise permitted personal, non-commercial purpose. Any use remains subject to the restrictions and applicable law.
+
+## 9. No Warranty
+
+The Licensed Materials are provided **"AS IS"**, without warranties or representations of any kind, to the maximum extent permitted by applicable law.
+
+The copyright holder does not guarantee that the materials are accurate, complete, secure, suitable for a particular purpose, or compatible with any specific AI system or software environment.
+
+Users are responsible for evaluating the materials before relying on them.
+
+## 10. Limitation of Liability
+
+To the maximum extent permitted by applicable law, the copyright holder shall not be liable for any indirect, incidental, special, consequential, or other damages arising from the use of, inability to use, or reliance upon the Licensed Materials.
+
+Nothing in this license excludes or limits liability where such exclusion or limitation is prohibited by applicable law.
+
+## 11. Termination
+
+Any permission granted under this license terminates automatically if you materially violate its terms.
+
+Upon termination, you must cease the use that is no longer authorized and, where legally required, stop distributing unauthorized copies of the Licensed Materials.
+
+Termination does not eliminate any rights or remedies that may otherwise be available under applicable law.
+
+Permissions may be restored through explicit written authorization from the copyright holder.
+
+## 12. Third-Party Rights and Applicable Law
+
+This license applies only to materials for which the copyright holder has the legal authority to grant the stated permissions.
+
+Third-party content, trademarks, software, and other independently licensed materials remain subject to their own applicable terms.
+
+This license is subject to applicable copyright and intellectual property law. Any governing law or jurisdiction will be determined in accordance with applicable legal rules unless separately agreed in writing.
+
+## 13. Changes to This License
+
+The copyright holder may publish updated versions of this license for future use of the repository.
+
+Unless explicitly stated otherwise, a revised license does not automatically alter permissions already granted under a separate written agreement.
+
+## 14. Contact and Commercial Licensing
+
+For commercial licensing, redistribution permissions, or other licensing inquiries, contact the copyright holder through the contact details published in the original repository profile.
+
+No commercial license is granted unless expressly approved in writing.
+
+## 15. Reservation of Rights
+
+All rights not expressly granted under this license are reserved.
+
+**Copyright © 2026 Alperen AKKAYA. All Rights Reserved.**
+
+Use of the Licensed Materials constitutes acceptance of the applicable terms of this license to the extent permitted by law.
